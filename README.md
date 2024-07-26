@@ -76,7 +76,7 @@ Add required icons to the list of files to track (not be ignored) in `.gitignore
 !assets/uswds/img/usa-icons/close.svg
 ```
 
-Although most aren't tracked, 2K+ icons in your local assets can slow down development. To speed it up, all icons are excluded from the build process unless expliciltly included in `_congif.yml`.
+Although most aren't tracked, 2K+ icons in your local assets can slow down development. To speed it up, all icons are excluded from the build process unless expliciltly included in `_config.yml`.
 
 ```
 include:
